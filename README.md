@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Gabriel and I'm a software/DevOps engineer based in Miami, FL. 🌴 <br>
+My name is Gabriel and I'm a software/DevOps engineer based in Washington, DC. <br>
 I hold a B.S. in Information Technology with a concentration in software development from Florida International University. 🎓<br><br>
 Tech is my passion. I enjoy working with and learning from other developers, as well as contributing my knowledge and technical skills to a wide array of projects.
 In addition to my work, I'm usually developing personal projects and adding to my skillset by learning new languages/frameworks. My hobbies includes playing guitar, going to the beach, and gaming. <br><br>
